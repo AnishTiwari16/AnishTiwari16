@@ -1,8 +1,10 @@
 #### Hi there,I'm Anish Tiwari 👋
-<p> 👀 I’m Front End Developer|Programmer|Learner</p>
-<p> 🌱 I’m Currently a React || React Native Developer.</p>
-<p> 💞️ I’m Willing to contribute more and more in Open Source Projects.</p>
-<p> 📫 Feel Free to Contact me....</p>
+<ul>
+<li> 👀 I’m Front End Developer|Programmer|Learner</li>
+<li> 🌱 I’m Currently a React || React Native Developer.</li>
+<li> 💞️ I’m Willing to contribute more and more in Open Source Projects.</li>
+<li> 📫 Feel Free to Contact me....</li>
+  </ul>
 <!--
 **AnishTiwari16/AnishTiwari16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
