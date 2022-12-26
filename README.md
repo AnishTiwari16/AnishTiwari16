@@ -1,6 +1,6 @@
 #### Hi there,I'm Anish Tiwari 👋
 <ul>
-<li> 👀 I’m Front End Developer|Programmer|Learner</li>
+<li> 👀 I’m Front End Developer || Programmer || Learner</li>
 <li> 🌱 I’m Currently a React || React Native Developer.</li>
 <li> 💞️ I’m Willing to contribute more and more in Open Source Projects.</li>
 <li> 📫 Feel Free to Contact me....</li>
