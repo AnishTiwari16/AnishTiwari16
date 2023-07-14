@@ -1,4 +1,4 @@
-#### Hi there,I'm Anish Tiwari 👋
+#### Hi there, I'm Anish Tiwari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 <ul>
 <li> 👀 I’m Front End Developer || Programmer || Learner</li>
 <li> 🌱 I’m Currently a React || React Native Developer.</li>
