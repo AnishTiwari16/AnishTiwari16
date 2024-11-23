@@ -1,17 +1,32 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, I'm Anish Tiwari</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 - 👨‍💻 Check out my personal portfolio : **<a href="https://anishtiwari.netlify.app/" target="_blank">Anish Tiwari</a>**
 
 - 💞️ I’m Willing to contribute more and more in Open Source Projects.
 
-- 😁 I am also interested in Web3.
+- 🌐 Web3, DeFi, and Crypto Enthusiast.
 
-- 📫 Feel Free to Contact me...
+- 💡 Passionate about Data Structures & Algorithms.
 
-- 📄 Know about my experiences [link](https://drive.google.com/file/d/1z2iStKFDcHLJb_0a7arxvVi6XV4sXydy/view)
+- 🛠️ Hackathon Builder.
+
+- 🎯 Always eager to learn and adapt to new tech trends.
 <hr />
+
+## 🚀 Projects 🚣🏻‍♂️
+
+| Name | Description | Source Code | Deployed At | Built with 🤍 At |
+|:----:|:------------|:-----------:|:-----------:|:--------:|
+| **🇺🇸 ProgressionXR** | AI, XR, and Web3 fitness platform featuring AI wellness coaches, Fitbit/VR integrations, and multichain attestations for privacy. 🚀 | [Repo](https://github.com/ProgressionXR-eth-sanfrancisco) | [Vercel](https://progression-xr.vercel.app/health-gains) | 🏅[ETHGlobal SanFrancisco](https://ethglobal.com/showcase/progressionxr-84tjv) |
+| **🇸🇬 AgentX** | Predict the future with decentralized real-time predictions powered by oracles. Place bets on live polls and win big! | [Repo]() | [Vercel](https://agentx-ethsg.vercel.app/app) | 🏅[ETHGlobal Singapore](https://ethglobal.com/showcase/agentx-j5fcc) |
+| **GetFit** | Revolutionizing fitness with AI-driven motivation, personalized workouts, P2P betting, and gamified rewards. 💪 | [Repo](https://github.com/getFit-EthOnline) | [Vercel](https://getfit-ethonline.vercel.app/) | 🏅[ETHGlobal Online](https://ethglobal.com/showcase/getfit-7kj6t) |
+| **MedX** | Blockchain-powered healthcare management for secure medical records and streamlined prescriptions. 👩‍⚕️ | [Repo](https://github.com/medX-Superhacks) | [Vercel](https://medx-superhack.vercel.app/) | 🏅[SuperHacks](https://ethglobal.com/showcase/medx-fdmxz) |
+| **BlockTease** | 💘 OnlyFans for web3: A decentralized platform addressing payout delays, high fees, and hidden charges with transparent agreements. | [Repo](https://github.com/BlockTease-BlockMagic) | [Vercel](https://blocktease.vercel.app/) | 🏅[Chainlink BlockMagic](https://devpost.com/software/blocktease) |
+| **🌊 HabibiCross 🏃🌉** | A platform rewarding achievements with immediate cryptocurrency payouts, bridging personal effort with tangible rewards. 🌊🏃🌉 | [Repo](https://github.com/eth-dubai-habibi-cross) | [Vercel](https://habibi-cross-frontend.vercel.app/) | 🏅[ETHDubai 🇦🇪](https://devfolio.co/projects/habibicross-905d) |
+
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/AnishTiw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anish_twitter" height="30" width="40" /></a>
