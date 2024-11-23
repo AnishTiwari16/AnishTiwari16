@@ -10,7 +10,7 @@
 
 - 💡 Passionate about Data Structures & Algorithms.
 
-- 🛠️ Hackathon Builder.
+- 📫 Feel Free to Contact me...
 
 - 🎯 Always eager to learn and adapt to new tech trends.
 <hr />
