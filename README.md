@@ -4,8 +4,6 @@
 
 - 👨‍💻 Check out my personal [portfolio](https://anishtiwari.netlify.app)
 
-- 🛠️ Hackathon Builder.
-
 - 🌐 Web3, DeFi, and Crypto Enthusiast.
 
 - 💡 Passionate about Data Structures & Algorithms.
