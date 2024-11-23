@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, I'm Anish Tiwari</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 👨‍💻 Check out my personal portfolio : **<a href="https://anishtiwari.netlify.app/" target="_blank">Anish Tiwari</a>**
+- 👨‍💻 Check out my personal [portfolio](https://anishtiwari.netlify.app)
 
 - 🛠️ Hackathon Builder.
 
