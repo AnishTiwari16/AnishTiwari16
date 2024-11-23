@@ -19,7 +19,7 @@
 
 | Name | Description | Source Code | Deployed At | Built with 🤍 At |
 |:----:|:------------|:-----------:|:-----------:|:--------:|
-| **🇺🇸 ProgressionXR** | AI, XR, and Web3 fitness platform featuring AI wellness coaches, Fitbit/VR integrations, and multichain attestations for privacy. 🚀 | [Repo](https://github.com/ProgressionXR-eth-sanfrancisco) | [Vercel](https://progression-xr.vercel.app/health-gains) | 🏅[ETHGlobal SanFrancisco](https://ethglobal.com/showcase/progressionxr-84tjv) |
+| **🇺🇸 ProgressionXR** | AI, XR, and Web3 fitness platform featuring AI wellness coaches, Fitbit/VR integrations, and multichain attestations for privacy. 🚀 | [Repo]() | [Vercel](https://progression-xr.vercel.app/health-gains) | [ETHGlobal SanFrancisco](https://ethglobal.com/showcase/progressionxr-84tjv) |
 | **🇸🇬 AgentX** | Predict the future with decentralized real-time predictions powered by oracles. Place bets on live polls and win big! | [Repo]() | [Vercel](https://agentx-ethsg.vercel.app/app) | 🏅[ETHGlobal Singapore](https://ethglobal.com/showcase/agentx-j5fcc) |
 | **GetFit** | Revolutionizing fitness with AI-driven motivation, personalized workouts, P2P betting, and gamified rewards. 💪 | [Repo](https://github.com/getFit-EthOnline) | [Vercel](https://getfit-ethonline.vercel.app/) | 🏅[ETHGlobal Online](https://ethglobal.com/showcase/getfit-7kj6t) |
 | **MedX** | Blockchain-powered healthcare management for secure medical records and streamlined prescriptions. 👩‍⚕️ | [Repo](https://github.com/medX-Superhacks) | [Vercel](https://medx-superhack.vercel.app/) | 🏅[SuperHacks](https://ethglobal.com/showcase/medx-fdmxz) |
