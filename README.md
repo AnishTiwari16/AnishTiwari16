@@ -4,9 +4,9 @@
 
 - 👨‍💻 Check out my personal [portfolio](https://anishtiwari.netlify.app)
 
-- 🌐 Web3, DeFi, and Crypto Enthusiast.
-
 - 💡 Passionate about Data Structures & Algorithms.
+
+- 🌐 Web3 Enthusiast.
 
 - 📫 Feel Free to Contact me...
 
