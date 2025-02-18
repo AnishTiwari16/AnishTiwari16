@@ -2,7 +2,9 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, I'm Anish Tiwari</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 👨‍💻 Check out my personal [portfolio](https://anishtiwari.netlify.app)
+- 📄 Resume [link](https://drive.google.com/file/d/1AfSw49ZnK9Ea9hU202BeK9WUmo2qM9Ej/view)
+
+- 👨‍💻 Check out my personal [portfolio](https://portfolio-dwjki8yc6-anishtiwari16s-projects.vercel.app)
 
 - 💡 Passionate about Data Structures & Algorithms.
 
